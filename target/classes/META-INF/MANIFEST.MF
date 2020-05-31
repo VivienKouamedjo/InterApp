@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Vivien Kouamedjo
+Build-Jdk: 12.0.1
+Implementation-Title: Evaluation TP 2020
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: fr.ensim.interop
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/tp-eval-2020
+Created-By: Maven Integration for Eclipse
+
