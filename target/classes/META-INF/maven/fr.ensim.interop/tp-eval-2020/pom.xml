@@ -28,6 +28,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
+		<dependency>
+   		 <groupId>com.sun.xml.ws</groupId>
+   		 <artifactId>jaxws-rt</artifactId>
+    	 <version>3.0.0-M3</version>
+		</dependency>
+		
 
 	</dependencies>
 
